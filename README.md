@@ -1,1 +1,3 @@
-# Data-Exploration-with-Pandas
+# Data Exploration with Pandas
+- Python
+- Pandas
